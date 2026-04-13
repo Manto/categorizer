@@ -1,0 +1,5 @@
+{
+  "name": "The Categorizer",
+  "description": "A brutalist scatter chart generator that categorizes items on custom axes using AI.",
+  "requestFramePermissions": []
+}
